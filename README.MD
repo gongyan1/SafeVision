@@ -4,7 +4,7 @@
 
 Pure-vision perception has emerged as a scalable and cost-effective paradigm for autonomous driving, enabling environment understanding through camera-based sensing without relying on expensive LiDAR systems. However, despite remarkable advances in BEV perception, multi-camera fusion, and collaborative intelligence, current pure-vision systems still face critical safety challenges under real-world conditions, including illumination degradation, adverse weather, occlusion, long-tail scenarios, and communication uncertainty.
 
-This repo is associated with the survey paper "Pure-Vision Perception for Autonomous Driving: A Survey on Sensors, Multi-Camera Fusion, and Collaborative Systems", which provides an up-to-date literature survey for Pure-Vision Perception. We hope this repo can not only be a good starting point for new beginners but also help current researchers in the Pure-Vision Perception community.
+This repo is associated with the survey paper "SafeVision: A Safety-Centric Survey of Pure-Vision Autonomous Driving from Local Perception to Collaborative Intelligence", which provides an up-to-date literature survey for Pure-Vision Perception. We hope this repo can not only be a good starting point for new beginners but also help current researchers in the Pure-Vision Perception community.
 
 ---
 

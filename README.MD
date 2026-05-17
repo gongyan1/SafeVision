@@ -28,7 +28,7 @@ ception.
 
 ## 📌 Framework
 
-![Overview](01_Overview_1.png)
+![Overview](01_Overview.jpg)
 
 The figure provides a comprehensive roadmap for safety-oriented perception in intelligent vehicles, illustrating the progression from single-modal perception to multi-modal and collaborative perception paradigms. It summarizes the sensor foundations, dataset taxonomies, existing safety challenges, and emerging research directions, which together establish the overall structure and motivation of the discussions presented throughout this paper.
 
